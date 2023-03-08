@@ -12,3 +12,5 @@
 
 [201 Class 1 Notes](201/class1.md);
 [201 Class 2 Notes](201/class2.md);
+[201 Class 3 Notes](201/class1.md);
+[201 Class 4 Notes](201/class2.md);
